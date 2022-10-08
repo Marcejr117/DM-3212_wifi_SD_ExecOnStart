@@ -4,5 +4,5 @@ Hardware utilizado: https://es.aliexpress.com/item/32839392329.html?spm=a2g0o.or
 
 Este es el producto:
 
-![Alt text](/images/frontal.png?raw=true "badusb_frontal")
+![Alt text](/images/Frontal.png?raw=true "badusb_frontal")
 
