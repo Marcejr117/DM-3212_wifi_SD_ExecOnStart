@@ -40,7 +40,7 @@
         <h3>Links de apoyo</h3>
         <a href="https://www.arduino.cc/reference/en/language/functions/usb/keyboard/">https://www.arduino.cc/reference/en/language/functions/usb/keyboard/</a><br /><a href="https://github.com/joelsernamoreno/badusb_sd_wifi">https://github.com/joelsernamoreno/badusb_sd_wifi</a><br /><a href="https://github.com/Necr0tizing/ArduinoKeyboardLayouts">https://github.com/Necr0tizing/ArduinoKeyboardLayouts</a><br /><a href="https://github.com/TheMMcOfficial/CJMCU-3212-wifi_ducky">https://github.com/TheMMcOfficial/CJMCU-3212-wifi_ducky</a><br />
         <h4>Imagenes de apoyo</h4>
-        <img src="images/1.png" /><br>
+        <img src="images/1.jpg" /><br>
         <img src="images/2.png" /> <br>
         <img src="images/3.png" /> <br>
         <img src="images/4.png" /><br>
