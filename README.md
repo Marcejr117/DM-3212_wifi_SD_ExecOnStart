@@ -70,9 +70,6 @@
     <a href="https://github.com/Necr0tizing/ArduinoKeyboardLayouts">https://github.com/Necr0tizing/ArduinoKeyboardLayouts</a><br>
     <a href="https://github.com/TheMMcOfficial/CJMCU-3212-wifi_ducky">https://github.com/TheMMcOfficial/CJMCU-3212-wifi_ducky</a><br>
     <h4>Imagenes de apoyo</h4>
-    <img src="images/1.png"/>
-    <img src="images/2.png"/>
-    <img src="images/3.png"/>
-    <img src="images/4.png"/>
+    
     </li>
 </ol>
