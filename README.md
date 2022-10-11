@@ -62,14 +62,18 @@
         - Los script de la SD estan configurados para que se ejecuten con el layout español y los de la interfaz grafica se ejecutan con layout ingles, en caso de quere que los scripts de la SD se ejecuten con layout ingles debemos cambiar esta linea<br>
         <img src="images/arduino11.png" alt="" width="550" height="450" /><br>
         
-    </li>
-    <li>
-    <h3>Links de apoyo</h3>
+        <h3>Links de apoyo</h3>
     <a href="https://www.arduino.cc/reference/en/language/functions/usb/keyboard/">https://www.arduino.cc/reference/en/language/functions/usb/keyboard/</a><br>
     <a href="https://github.com/joelsernamoreno/badusb_sd_wifi">https://github.com/joelsernamoreno/badusb_sd_wifi</a><br>
     <a href="https://github.com/Necr0tizing/ArduinoKeyboardLayouts">https://github.com/Necr0tizing/ArduinoKeyboardLayouts</a><br>
     <a href="https://github.com/TheMMcOfficial/CJMCU-3212-wifi_ducky">https://github.com/TheMMcOfficial/CJMCU-3212-wifi_ducky</a><br>
     <h4>Imagenes de apoyo</h4>
-    
+    <img src="images/1.png"/>
+    <img src="images/2.png"/>
+    <img src="images/3.png"/>
+    <img src="images/4.png"/>
     </li>
+    </li>
+    <li>
+    
 </ol>
