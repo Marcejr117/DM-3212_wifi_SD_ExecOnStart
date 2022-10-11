@@ -1,4 +1,3 @@
-<body>
 <h1>Badusb_Wifi_SD_ExecOnStartUp</h1>
 <p>Este reporsitorio es una modificacion de: <a href="https://github.com/joelsernamoreno/badusb_sd_wifi">https://github.com/joelsernamoreno/badusb_sd_wifi</a></p>
 <p>El hardware utilizado: <a href="https://es.aliexpress.com/item/32839392329.html?spm=a2g0o.order_list.0.0.1875194dMcteUe&amp;gatewayAdapt=glo2esp">https://es.aliexpress.com/item/32839392329.html?spm=a2g0o.order_list.0.0.1875194dMcteUe&amp;gatewayAdapt=glo2esp</a></p>
@@ -64,7 +63,7 @@
         <img src="images/arduino11.png" alt="" width="550" height="450" /><br>
         
     </li>
-    </ol>
+    <li>
     <h3>Links de apoyo</h3>
     <a href="https://www.arduino.cc/reference/en/language/functions/usb/keyboard/">https://www.arduino.cc/reference/en/language/functions/usb/keyboard/</a><br>
     <a href="https://github.com/joelsernamoreno/badusb_sd_wifi">https://github.com/joelsernamoreno/badusb_sd_wifi</a><br>
@@ -75,4 +74,5 @@
     <img src="images/2.png"/>
     <img src="images/3.png"/>
     <img src="images/4.png"/>
-</body>
+    </li>
+</ol>
