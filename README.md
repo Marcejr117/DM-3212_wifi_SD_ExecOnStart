@@ -40,7 +40,11 @@
         <h3>Sintaxis</h3>
         <p>- print (example: print test)<br />- println (example: println test)<br />- press (example: press KEY_RETURN)<br />- rawpress (example: press KEY_RETURN)<br />- delay (example: delay 1000)<br />- release (example: release)<br />- runwin (example: runwin)<br />- rungnome (example: rungnome)<br />- runmac (example: runmac)<br />- execSD ((example: execSD test.txt, execSD helloworld.txt, execSD remote.txt, etc)</p>
         <h3>Links de apoyo</h3>
-        <a href="https://www.arduino.cc/reference/en/language/functions/usb/keyboard/">https://www.arduino.cc/reference/en/language/functions/usb/keyboard/</a><br /><a href="https://github.com/joelsernamoreno/badusb_sd_wifi">https://github.com/joelsernamoreno/badusb_sd_wifi</a><br /><a href="https://github.com/Necr0tizing/ArduinoKeyboardLayouts">https://github.com/Necr0tizing/ArduinoKeyboardLayouts</a><br /><a href="https://github.com/TheMMcOfficial/CJMCU-3212-wifi_ducky">https://github.com/TheMMcOfficial/CJMCU-3212-wifi_ducky</a><br />
+        <a href="https://www.arduino.cc/reference/en/language/functions/usb/keyboard/keyboardmodifiers/">Teclas especiales</a><br />
+        <a href="https://www.arduino.cc/reference/en/language/functions/usb/keyboard/">https://www.arduino.cc/reference/en/language/functions/usb/keyboard/</a><br />
+        <a href="https://github.com/joelsernamoreno/badusb_sd_wifi">https://github.com/joelsernamoreno/badusb_sd_wifi</a><br />
+        <a href="https://github.com/Necr0tizing/ArduinoKeyboardLayouts">https://github.com/Necr0tizing/ArduinoKeyboardLayouts</a><br />
+        <a href="https://github.com/TheMMcOfficial/CJMCU-3212-wifi_ducky">https://github.com/TheMMcOfficial/CJMCU-3212-wifi_ducky</a><br />
         <h4>Imagenes de apoyo</h4>
         <img src="images/1.jpg" /><br>
         <img src="images/2.png" /> <br>
