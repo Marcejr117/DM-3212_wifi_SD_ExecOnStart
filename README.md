@@ -3,22 +3,22 @@
     </head>
     <body>
         <h1>Badusb_Wifi_SD_ExecOnStartUp</h1>
-        <p>Este repositorio es una modificacion de: <a href="https://github.com/joelsernamoreno/badusb_sd_wifi">https://github.com/joelsernamoreno/badusb_sd_wifi</a></p>
+        <p>Este repositorio es una modificación de: <a href="https://github.com/joelsernamoreno/badusb_sd_wifi">https://github.com/joelsernamoreno/badusb_sd_wifi</a></p>
         <p>El hardware utilizado: <a href="https://es.aliexpress.com/item/32839392329.html?spm=a2g0o.order_list.0.0.1875194dMcteUe&amp;gatewayAdapt=glo2esp">https://es.aliexpress.com/item/32839392329.html?spm=a2g0o.order_list.0.0.1875194dMcteUe&amp;gatewayAdapt=glo2esp</a></p>
         <p><img src="/images/Frontal.png" alt="" width="350" height="350" /></p>
         <p><img src="/images/trasera.png" alt="" width="350" height="150" /></p>
         <p>Funcionalidades:</p>
         <ol>
             <li>Ejecutar comandos desde el navegador (wifi)</li>
-            <li>Ejecutar codigo almacenado en la SD desde un comando Wifi</li>
+            <li>Ejecutar código almacenado en la SD desde un comando Wifi</li>
             <li>Ejecutar el archivo "script.txt" almacenado en la SD, al conectar la USB</li>
             <li>Disponer de un servidor FTP, para poder subir cualquier archivo</li>
-            <li>Cambio en la distribicion de teclado: US,ESP...</li>
-            <li>Interfaz grafica</li>
+            <li>Cambio en la distribición de teclado: US,ESP...</li>
+            <li>Interfaz gráfica</li>
         </ol>
         <p>&nbsp;</p>
         <p>El proceso esta explicado tanto para linux como para windows</p>
-        <p>Instalacion:</p>
+        <p>Instalación:</p>
         <ol>
             <ol>
                 <li>Descarga el proyecto: <a href="https://github.com/Marcejr117/DM-3212_wifi_SD_ExecOnStart/archive/refs/heads/main.zip">https://github.com/Marcejr117/DM-3212_wifi_SD_ExecOnStart/archive/refs/heads/main.zip</a></li>
