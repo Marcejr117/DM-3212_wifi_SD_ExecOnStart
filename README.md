@@ -3,7 +3,7 @@
     </head>
     <body>
         <h1>Badusb_Wifi_SD_ExecOnStartUp</h1>
-        <p>Este reporsitorio es una modificacion de: <a href="https://github.com/joelsernamoreno/badusb_sd_wifi">https://github.com/joelsernamoreno/badusb_sd_wifi</a></p>
+        <p>Este repositorio es una modificacion de: <a href="https://github.com/joelsernamoreno/badusb_sd_wifi">https://github.com/joelsernamoreno/badusb_sd_wifi</a></p>
         <p>El hardware utilizado: <a href="https://es.aliexpress.com/item/32839392329.html?spm=a2g0o.order_list.0.0.1875194dMcteUe&amp;gatewayAdapt=glo2esp">https://es.aliexpress.com/item/32839392329.html?spm=a2g0o.order_list.0.0.1875194dMcteUe&amp;gatewayAdapt=glo2esp</a></p>
         <p><img src="/images/Frontal.png" alt="" width="350" height="350" /></p>
         <p><img src="/images/trasera.png" alt="" width="350" height="150" /></p>
