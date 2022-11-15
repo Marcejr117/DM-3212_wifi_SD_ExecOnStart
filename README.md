@@ -22,8 +22,8 @@
         <ol>
             <ol>
                 <li>Descarga el proyecto: <a href="https://github.com/Marcejr117/DM-3212_wifi_SD_ExecOnStart/archive/refs/heads/main.zip">https://github.com/Marcejr117/DM-3212_wifi_SD_ExecOnStart/archive/refs/heads/main.zip</a></li>
-                <li>Abre el archivo "esp8266Programmer/esp8266Programmer.ino", modifica las preferencias de arduino y agrega esta linea: <a href="https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json">http://arduino.esp8266.com/stable/package_esp8266com_index.json<br /></a><img src="/images/arduino1.png" alt="" width="550" height="500" /></li>
-                <li>Conectamos la tarjeta al pc y configuramos el arduino de la siguiente forma:<br />&nbsp;<img src="images/arduino2.png" alt="" width="550" height="500" /></li>
+                <li>Abre el archivo "esp8266Programmer/esp8266Programmer.ino", modifica las preferencias de arduino y agrega esta linea: <a href="https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json">http://arduino.esp8266.com/stable/package_esp8266com_index.json<br /></a><img src="/images/arduino1.png" alt="" width="650" height="500" /></li>
+                <li>Conectamos la tarjeta al pc y configuramos el arduino de la siguiente forma:<br />&nbsp;<img src="images/arduino2.png" alt="" width="650" height="500" /></li>
                 <li>Subimos el sketch a la tarjeta</li>
             </ol>
         </ol>
