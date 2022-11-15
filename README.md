@@ -38,7 +38,7 @@
             </li>
         </ol>
         <h3>Sintaxis</h3>
-        <p>- print (example: print test)<br />- println (example: println test)<br />- press (example: press KEY_RETURN)<br />- rawpress (example: press KEY_RETURN)<br />- delay (example: delay 1000)<br />- release (example: release)<br />- runwin (example: runwin)<br />- rungnome (example: rungnome)<br />- runmac (example: runmac)<br />- execSD ((example: execSD test.txt, execSD helloworld.txt, execSD remote.txt, etc)</p>
+        <p>- print (example: print test) Escribe el texto<br />- println (example: println test) escribe el texto con salto de linea<br />- press (example: press KEY_RETURN) presiona la tecla sin levantarla "no Release"<br />- rawpress (example: press KEY_RETURN) press + release <br />- delay (example: delay 1000) especifica la espera<br />- release (example: release) levanta las teclas pulsadas<br />- runwin (example: runwin) presiona la tecla windows<br />- rungnome (example: rungnome) presiona la tecla gnome<br />- runmac (example: runmac) presiona la tecla mac<br />- execSD ((example: execSD test.txt, execSD helloworld.txt, execSD remote.txt, etc) Ejecuta un script de la SD</p>
         <h3>Links de apoyo</h3>
         <a href="https://www.arduino.cc/reference/en/language/functions/usb/keyboard/keyboardmodifiers/">Teclas especiales</a><br />
         <a href="https://www.arduino.cc/reference/en/language/functions/usb/keyboard/">https://www.arduino.cc/reference/en/language/functions/usb/keyboard/</a><br />
